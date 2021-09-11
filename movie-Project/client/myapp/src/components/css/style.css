@@ -1,0 +1,11 @@
+.jumbotron {
+    width: 2400px;
+    height: 1600px;
+    background-image:url("cinema2.jpg");
+}
+.button{
+    background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)'
+}
+.title{
+    color: rgb(0, 0, 255)
+}
